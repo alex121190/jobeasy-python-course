@@ -64,7 +64,7 @@ if random_number < 10 or random_number > 99:
     result_4 = "Please, put in a number between 10 and 99"
 else:
     if random_number % 2 == 0:
-        result_4 == "Even number"
+        result_4 = "Even number"
     else:
-        result_4 == "Odd number"
+        result_4 = "Odd number"
 print(result_4)
